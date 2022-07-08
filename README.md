@@ -1,6 +1,6 @@
 # Circum Icons SvelteKit Demo
 
-This project was created to show usecases with [Circum Icons](https://circumicons.com) library.
+This project was created to show usecases of icons integration with [Circum Icons](https://circumicons.com) library.
 
 ![circum-preview](https://user-images.githubusercontent.com/87146097/178036860-533d4fde-12c5-4464-a6f7-af4bf1004ca7.png)
 
