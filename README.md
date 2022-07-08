@@ -2,7 +2,7 @@
 
 This project was created to show usecases with [Circum Icons](https://circumicons.com) library.
 
-![localhost_4561_ (2)](https://user-images.githubusercontent.com/87146097/178032512-272c29c2-f5c0-487a-8f4e-d32860f8ebe9.png)
+![localhost_4561_ (1)](https://user-images.githubusercontent.com/87146097/178032688-3e204ebc-8723-4178-b696-21efbff3ffc7.png)
 
 ## Developing
 
